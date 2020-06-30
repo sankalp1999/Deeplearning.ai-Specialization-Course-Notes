@@ -28,23 +28,24 @@ If you want to get a good grasp on the foundations of deep learning, this is pro
 ## Notes
 
 I have made notes for some of the courses. I used the following notes also to re-read and understand 
-the course material
+the course material. The ppant notes are more of transcript. I would recommend using the mbadry1 and 
+of-course, **check out my notes as I have tried to summarise and integrate resources ** .
 
-- mbadry1 [notes](https://github.com/mbadry1/DeepLearning.ai-Summary)
+- mbadry1 [notes](https://github.com/mbadry1/DeepLearning.ai-Summary) 
 
 - ppant [notes](https://github.com/ppant/deeplearning.ai-notes)
 
-## My notes and resources referred
+## Personal Notes and Resources referred
 
-### Course 2
+### Course 2 - Optimization Algorithms and Hyper-parameter tuning
 
 [Course_2](https://github.com/sankalp1999/Deeplearning.ai-specialization/tree/master/course2_optimization_algos)
 
 This [blog](https://ruder.io/optimizing-gradient-descent/) by Sebastian Ruder is amazing and it started making sense after the course 2.
 
-Deeplizard channel and CodeEmporium on Youtube.
+Deeplizard channel and CodeEmporium on Youtube. 
 
-CS231N(2017 or 2016) versions - the first half is similar to what is taught in the first two courses of this specialization.
+CS231N(2017 or 2016) versions - the first half is similar to what is taught in the first two courses of this specialization. 
 
 
 
