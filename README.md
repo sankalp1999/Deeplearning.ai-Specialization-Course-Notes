@@ -20,6 +20,11 @@ This course is great for a deep theoretical understanding. I enjoyed it a lot so
 I had prior deeplearning experience (using Pytorch) but I had many gaps in knowledge. This specialization has helped a lot
 to bridge those gaps.
 
+Andrew Ng sir does an excellent job at explaining the intricacies and intuitions involved. He also makes sure that 
+we know about the "nitty-gritty" details.
+
+If you want to get a good grasp on the foundations of deep learning, this is probably the best way to go.
+
 ## Notes
 
 I have made notes for some of the courses. I used the following notes also to re-read and understand 
