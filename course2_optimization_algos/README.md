@@ -231,7 +231,7 @@ Adam is one of the most effective optimization algorithms for training neural ne
 2. It calculates an exponentially weighted average of the squares of the past gradients, and stores it in variables $s$ (before bias correction) and $s^{corrected}$ (with bias correction).
 3. It updates parameters in a direction based on combining information from "1" and "2".
 
-[images/Adam%20Optimization%20Algorithm%20(C2W2L08)%204-48%20screenshot.png](images/Adam%20Optimization%20Algorithm%20(C2W2L08)%204-48%20screenshot.png)
+![images/Adam%20Optimization%20Algorithm%20(C2W2L08)%204-48%20screenshot.png](images/Adam%20Optimization%20Algorithm%20(C2W2L08)%204-48%20screenshot.png)
 
 - t counts the number of steps taken of Adam
 - L is the number of layers
@@ -312,7 +312,7 @@ the activations are the inputs for the next layers. So, we normalize the activat
 
 Andrew suggests that normalize Z[L-1] instead of the activations A[l-1]. There is some debate on this in the DL community.
 
-![Deeplearning%20ai%20notes%20ef1397f591e74c4fb69de691d3284f74/Batch_Normalization_-_EXPLAINED!_6-13_screenshot.png](Deeplearning%20ai%20notes%20ef1397f591e74c4fb69de691d3284f74/Batch_Normalization_-_EXPLAINED!_6-13_screenshot.png)
+![images/Batch_Normalization_-_EXPLAINED!_6-13_screenshot.png](images/Batch_Normalization_-_EXPLAINED!_6-13_screenshot.png)
 
 **The gamma and beta are learnable parameters. They are learnt by the optimization algorithm.**
 Thus, the mean and variance are not necessarily 0 and 1. The parameters
@@ -366,7 +366,7 @@ It turns out that many of the intuitions of 2-D space do not translate that well
 We are very likely to find saddle points in high dimensional spaces. Learning is slower around these saddle points(derivative is zero). 
 Local optimas are not that big of a problem. The problem is out plateaus. Adam, RMS_prop help to overcome such issues.
 
-[images/The%20Problem%20of%20Local%20Optima%20(C2W3L10)%202-37%20screenshot.png](images/The%20Problem%20of%20Local%20Optima%20(C2W3L10)%202-37%20screenshot.png)
+![images/The%20Problem%20of%20Local%20Optima%20(C2W3L10)%202-37%20screenshot.png](images/The%20Problem%20of%20Local%20Optima%20(C2W3L10)%202-37%20screenshot.png)
 
 ### Deep learning frameworks
 
