@@ -39,5 +39,7 @@ This [blog](https://ruder.io/optimizing-gradient-descent/) by Sebastian Ruder is
 
 Deeplizard channel and CodeEmporium on Youtube.
 
+CS231N(2017 or 2016) versions - the first half is similar to what is taught in the first two courses of this specialization.
+
 
 
