@@ -1,5 +1,8 @@
 # Deeplearning.ai-specialization
 
+> AI is the new electricity 
+  -Andrew Ng
+
 ### About the course from the course page
 
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
@@ -12,14 +15,19 @@ AI is transforming multiple industries. After finishing this specialization, you
 
 We will help you master Deep Learning, understand how to apply it, and build a career in AI.
 
+### My experience
+This course is great for a deep theoretical understanding. I enjoyed it a lot so far. Currently, doing course 4. 
+I had prior deeplearning experience (using Pytorch) but I had many gaps in knowledge. This specialization has helped a lot
+to bridge those gaps.
 
 ## Notes
 
 I have made notes for some of the courses. I used the following notes also to re-read and understand 
 the course material
 
-mbadry1 [notes](https://github.com/mbadry1/DeepLearning.ai-Summary)
-ppant [notes](https://github.com/ppant/deeplearning.ai-notes)
+- mbadry1 [notes](https://github.com/mbadry1/DeepLearning.ai-Summary)
+
+- ppant [notes](https://github.com/ppant/deeplearning.ai-notes)
 
 ## My notes and resources referred
 
