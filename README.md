@@ -29,7 +29,7 @@ If you want to get a good grasp on the foundations of deep learning, this is pro
 
 I have made notes for some of the courses. I used the following notes also to re-read and understand 
 the course material. The ppant notes are more of transcript. I would recommend using the mbadry1 and 
-of-course, **check out my notes as I have tried to summarise and integrate resources ** .
+of-course, **check out my notes as I have tried to summarise and integrate resources** .
 
 - mbadry1 [notes](https://github.com/mbadry1/DeepLearning.ai-Summary) 
 
