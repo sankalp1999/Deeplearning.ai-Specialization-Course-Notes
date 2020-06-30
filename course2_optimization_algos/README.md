@@ -12,7 +12,7 @@ In general, the number of neurons in the previous layer gives us the number of c
 
 ## Notation
 
-![Deeplearning%20ai%20notes%20ef1397f591e74c4fb69de691d3284f74/Standard_notations.png](Deeplearning%20ai%20notes%20ef1397f591e74c4fb69de691d3284f74/Standard_notations.png)
+![images/Standard_notations.png](images/Standard_notations.png)
 
 # Week 1
 
@@ -26,7 +26,7 @@ A model with high bias is underfitted.
 
 ## L2 regularisation
 
-![Deeplearning%20ai%20notes%20ef1397f591e74c4fb69de691d3284f74/Regularization_(C2W1L04)_9-3_screenshot.png](Deeplearning%20ai%20notes%20ef1397f591e74c4fb69de691d3284f74/Regularization_(C2W1L04)_9-3_screenshot.png)
+![images/Regularization_(C2W1L04)_9-3_screenshot.png](images/Regularization_(C2W1L04)_9-3_screenshot.png)
 
 **Observations**:
 
@@ -221,7 +221,7 @@ on iteration t:
 
 People don't implement bias correction often.
 
-$**\beta = 0.9$   tends to work well. Beta is also a hyperparameter.**
+**beta = 0.9 tends to work well. Beta is also a hyperparameter.**
 
 Adam is one of the most effective optimization algorithms for training neural networks. It combines ideas from RMSProp (described in lecture) and Momentum.
 
@@ -231,22 +231,13 @@ Adam is one of the most effective optimization algorithms for training neural ne
 2. It calculates an exponentially weighted average of the squares of the past gradients, and stores it in variables $s$ (before bias correction) and $s^{corrected}$ (with bias correction).
 3. It updates parameters in a direction based on combining information from "1" and "2".
 
-The update rule is, for   $l = 1, ..., L$:
-
-$\begin{cases}
-v_{dW^{[l]}} = \beta_1 v_{dW^{[l]}} + (1 - \beta_1) \frac{\partial \mathcal{J} }{ \partial W^{[l]} } \\
-v^{corrected}{dW^{[l]}} = \frac{v{dW^{[l]}}}{1 - (\beta_1)^t} \\
-s_{dW^{[l]}} = \beta_2 s_{dW^{[l]}} + (1 - \beta_2) (\frac{\partial \mathcal{J} }{\partial W^{[l]} })^2 \\
-s^{corrected}{dW^{[l]}} = \frac{s{dW^{[l]}}}{1 - (\beta_2)^t} \\
-W^{[l]} = W^{[l]} - \alpha \frac{v^{corrected}{dW^{[l]}}}{\sqrt{s^{corrected}{dW^{[l]}}} + \varepsilon}
-\end{cases}
-where:$
+[images/Adam%20Optimization%20Algorithm%20(C2W2L08)%204-48%20screenshot.png](images/Adam%20Optimization%20Algorithm%20(C2W2L08)%204-48%20screenshot.png)
 
 - t counts the number of steps taken of Adam
 - L is the number of layers
-- $\beta_1$ and $\beta_2$ are hyperparameters that control the two exponentially weighted averages.
-- $\alpha$ is the learning rate
-- $\varepsilon$ is a very small number to avoid dividing by zero
+- beta_1 and beta_2 are hyperparameters that control the two exponentially weighted averages.
+- alpha is the learning rate
+- epsilon is a very small number to avoid dividing by zero
 
 As usual, we will store all parameters in the `parameters` dictionary
 
@@ -366,6 +357,16 @@ The loss function used with softmax:
 ```
 L(y, y_hat) = - sum(y[j] * log(y_hat[j])) # j = 0 to C-1
 ```
+
+
+### The problem of local optima
+
+It turns out that many of the intuitions of 2-D space do not translate that well to higher dimensional spaces.
+
+We are very likely to find saddle points in high dimensional spaces. Learning is slower around these saddle points(derivative is zero). 
+Local optimas are not that big of a problem. The problem is out plateaus. Adam, RMS_prop help to overcome such issues.
+
+[images/The%20Problem%20of%20Local%20Optima%20(C2W3L10)%202-37%20screenshot.png](images/The%20Problem%20of%20Local%20Optima%20(C2W3L10)%202-37%20screenshot.png)
 
 ### Deep learning frameworks
 
