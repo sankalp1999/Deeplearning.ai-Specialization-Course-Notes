@@ -1,4 +1,4 @@
-# Deeplearning.ai-specialization
+# Deep Learning Specialization
 
 > AI is the new electricity 
   -Andrew Ng
