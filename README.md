@@ -1,9 +1,10 @@
-# Deep Learning Specialization
+# [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
-> AI is the new electricity 
-  -Andrew Ng
+Quoting Andrew Ng,
+> "Artificial Intelligence is the new electricity."
+   
 
-### About the course from the course page
+### About the specialization from the course page
 
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
 
