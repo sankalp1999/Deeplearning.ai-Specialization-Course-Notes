@@ -117,7 +117,9 @@ used Sigmoid function.
 
 Refer this [video](https://youtu.be/qO_NLVjD6zE?t=0) by DeepLizard channel
 
-by Weight Initialization
+### How to solve this problem?
+
+**Weight Initialization**
 
 Setting initialization part inside sqrt to
 
@@ -127,7 +129,7 @@ Setting initialization part inside sqrt to
 np.random.rand(shape) * np.sqrt(2/n[l-1])
 ```
 
-**What you should remember from this notebook**:
+**Important note from the assignment**:
 
 Different initializations lead to different resultsRandom initialization is used to break symmetry and make sure different hidden units can learn different thingsDon't intialize to values that are too largeHe initialization works well for networks with ReLU activations.
 
