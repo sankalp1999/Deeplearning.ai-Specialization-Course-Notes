@@ -26,7 +26,7 @@ we know about the "nitty-gritty" details.
 
 If you want to get a good grasp on the foundations of deep learning, this is probably the best way to go.
 
-**I have made a significant amount of effort to make digital notes for the courses 2, 3, 4 and 5. I hope you will enjoy the notes.**
+**I have made a significant amount of effort to make digital notes for the courses 2, (3, 4 and 5 in progress). I hope you will enjoy the notes.**
 
 ## Notes
 
