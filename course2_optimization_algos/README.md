@@ -108,6 +108,15 @@ Why normalize?
 - But if we normalize it the opposite will occur. The shape of the cost function will be consistent (look more symmetric like circle in 2D example) and we can use a larger learning rate alpha - the optimization will be faster.
 
 ### Vanishing/Exploding gradients and Solution 
+- I didn't like Andrew's explanation for the vanishing gradient. But, anyways the vanishing gradient problem used to occur/occurs in 
+very deep nets. It mainly concerns the initial layers. In older times before 2000, ReLu activations were not there. So, researchers
+used Sigmoid function. 
+- Sigmoid's derivative is between 0 - 0.25 (It has been proved and can be found by some paperwork). So, by the time the backpropagation
+  reaches the initial layers, the gradients get really small. Thus, the weight updates for the initial layers is like 10-4 difference (Since there will be a lot     derivative terms for the initial layers)
+- Thus, the weights change very gradually and the training becomes slow.
+
+Refer this [video](https://youtu.be/qO_NLVjD6zE?t=0) by DeepLizard channel
+
 by Weight Initialization
 
 Setting initialization part inside sqrt to
@@ -187,7 +196,7 @@ This equation is kind of beautiful. It is sort of a running weighted average.
 - Gives more weightage to recent contributions
 - Lesser contribution to older contributions as we proceed.
 
-If we plot this it will represent averages over $-(1/(1-\beta)$
+If we plot this it will represent averages over -(1/(1-\beta)
 
 entries:
 
@@ -200,7 +209,7 @@ entries:
 - Because `v(0) = 0`, the bias of the weighted averages is shifted and the accuracy suffers at the start.
 - To solve the bias issue we have to use this equation:
 
-    $$v(t) = (\beta * v_{(t-1)} + (1-\beta) * \theta(t)) / (1 - \beta^t)$$
+    v(t) = (\beta * v_{(t-1)} + (1-\beta) * \theta(t)) / (1 - \beta^t)
 
 ### Grad descent with momentum
 
