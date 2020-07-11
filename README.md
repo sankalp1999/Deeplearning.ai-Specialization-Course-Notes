@@ -50,7 +50,7 @@ Deeplizard channel and CodeEmporium on Youtube.
 
 [Vanishing/Exploding gradients](https://www.youtube.com/watch?v=qO_NLVjD6zE&t=1s)
 
-[Detailed math vanishing/exploding gradient](https://www.youtube.com/watch?v=EB1SoyivHFU)
+[Detailed math vanishing/exploding gradient CS7015 IIT-M](https://www.youtube.com/watch?v=EB1SoyivHFU)
 
 CS231N(2017 or 2016) versions - the first half is similar to what is taught in the first two courses of this specialization. 
 
