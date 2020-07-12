@@ -26,7 +26,7 @@ we know about the "nitty-gritty" details.
 
 If you want to get a good grasp on the foundations of deep learning, this is probably the best way to go.
 
-**I have made a significant amount of effort to make digital notes for the courses 2, 3, 4 and 5. I hope you will enjoy the notes.**
+**I have made a significant amount of effort to make digital notes for the courses 2, (3, 4 and 5 in progress). I hope you will enjoy the notes.**
 
 ## Notes
 
@@ -47,6 +47,10 @@ of-course, **check out my notes as I have tried to summarise and integrate resou
 This [blog](https://ruder.io/optimizing-gradient-descent/) by Sebastian Ruder is amazing and it started making sense after the course 2.
 
 Deeplizard channel and CodeEmporium on Youtube. 
+
+[Vanishing/Exploding gradients](https://www.youtube.com/watch?v=qO_NLVjD6zE&t=1s)
+
+[Detailed math vanishing/exploding gradient CS7015 IIT-M](https://www.youtube.com/watch?v=EB1SoyivHFU)
 
 CS231N(2017 or 2016) versions - the first half is similar to what is taught in the first two courses of this specialization. 
 
