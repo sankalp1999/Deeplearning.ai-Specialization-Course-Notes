@@ -46,17 +46,18 @@ of-course, **check out my notes as I have tried to summarise and integrate resou
 
 ### Course 2 - Optimization Algorithms and Hyper-parameter tuning
 
-[Course_2](https://github.com/sankalp1999/Deeplearning.ai-specialization/tree/master/course2_optimization_algos)
+- The Course 2 notes can be found [Course 2](https://github.com/sankalp1999/Deeplearning.ai-specialization/tree/master/course2_optimization_algos)
 
-This [blog](https://ruder.io/optimizing-gradient-descent/) by Sebastian Ruder is amazing and it started making sense after the course 2.
+- This [blog](https://ruder.io/optimizing-gradient-descent/) by Sebastian Ruder is amazing and it started making sense after the course 2.
 
-Deeplizard channel and CodeEmporium on Youtube. 
+- Deeplizard channel and CodeEmporium on Youtube. 
 
-[Vanishing/Exploding gradients](https://www.youtube.com/watch?v=qO_NLVjD6zE&t=1s)
+- [Vanishing/Exploding gradients](https://www.youtube.com/watch?v=qO_NLVjD6zE&t=1s) I felt that the explanation in the course video is not 
+  enough.
 
-[Detailed math vanishing/exploding gradient CS7015 IIT-M](https://www.youtube.com/watch?v=EB1SoyivHFU)
+- [Detailed math vanishing/exploding gradient CS7015 IIT-M](https://www.youtube.com/watch?v=EB1SoyivHFU)
 
-CS231N(2017 or 2016) versions - the first half is similar to what is taught in the first two courses of this specialization. 
+- CS231N(2017 or 2016) versions - the first half is similar to what is taught in the first two courses of this specialization. 
 
 ### Course 4 - Convolutional Neural Networks
 
