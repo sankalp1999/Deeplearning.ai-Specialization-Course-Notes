@@ -6,7 +6,7 @@ Quoting Andrew Ng,
 This repository contains my notes and some references of other resources I utilised. I learnt a lot of new concepts in the course and I enjoyed making these notes. The CNN course is my favourite. Apart from that, I feel if anyone is not doing the whole specialization, he/she should atleast do the 
 first 2 courses to get a deeper understanding of the NN and optimization algorithms. 
 
-You can find my notes via links below or by navigating through the repo.
+You can navigate through the repository or jump directly by clicking on [this](https://github.com/sankalp1999/Deeplearning.ai-Specialization/blob/master/README.md#personal-notes-and-resources-referred) 
 
 ### About the specialization from the course page
 
