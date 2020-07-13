@@ -3,6 +3,10 @@
 Quoting Andrew Ng,
 > "Artificial Intelligence is the new electricity."
    
+This repository contains my notes and some important references of resources I used. I learnt a lot of new concepts in the course and I enjoyed making these notes. The CNN course is my favourite. Apart from that, I feel if anyone is not doing the whole specialization, he/she should atleast do the 
+first 2 courses to get a deeper understanding of the NN and optimization algorithms. 
+
+You can find my notes via links below or by navigating through the repo.
 
 ### About the specialization from the course page
 
@@ -54,5 +58,13 @@ Deeplizard channel and CodeEmporium on Youtube.
 
 CS231N(2017 or 2016) versions - the first half is similar to what is taught in the first two courses of this specialization. 
 
+### Course 4 - Convolutional Neural Networks
+
+[Course 4 - CNN](https://github.com/sankalp1999/Deeplearning.ai-Specialization/tree/master/course_4_Convolutional_Neural_Networks) notes.
+
+- CS231N again is the ultimate work on Computer Vision.
+- ComputerPhile has a lot of videos on Image Processing. This is still in my to-do list though.
+- A hidden gem on Youtube is the recently released playlist by CMU. Check [here](https://youtu.be/XXCfkmaglvY)
+- [Henry AI Labs channel](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/playlists) on Youtube has many paper explanations.
 
 
