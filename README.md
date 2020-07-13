@@ -46,7 +46,7 @@ of-course, **check out my notes as I have tried to summarise and integrate resou
 
 ### Course 2 - Optimization Algorithms and Hyper-parameter tuning
 
-- The Course 2 notes can be found [Course 2](https://github.com/sankalp1999/Deeplearning.ai-specialization/tree/master/course2_optimization_algos)
+[Course 2](https://github.com/sankalp1999/Deeplearning.ai-specialization/tree/master/course2_optimization_algos)
 
 - This [blog](https://ruder.io/optimizing-gradient-descent/) by Sebastian Ruder is amazing and it started making sense after the course 2.
 
