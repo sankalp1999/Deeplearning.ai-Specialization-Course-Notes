@@ -1,11 +1,9 @@
-# [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+# [Deep Learning Specialization Course Notes](https://www.coursera.org/specializations/deep-learning)
 
 Quoting Andrew Ng,
 > "Artificial Intelligence is the new electricity."
-   
-### What this repo is about
 
-This repository contains my notes and some important references of resources I used. I learnt a lot of new concepts in the course and I enjoyed making these notes. The CNN course is my favourite. Apart from that, I feel if anyone is not doing the whole specialization, he/she should atleast do the 
+This repository contains my notes and some references of other resources I utilised. I learnt a lot of new concepts in the course and I enjoyed making these notes. The CNN course is my favourite. Apart from that, I feel if anyone is not doing the whole specialization, he/she should atleast do the 
 first 2 courses to get a deeper understanding of the NN and optimization algorithms. 
 
 You can find my notes via links below or by navigating through the repo.
