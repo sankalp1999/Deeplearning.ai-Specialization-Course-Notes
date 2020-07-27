@@ -3,7 +3,7 @@
 Quoting Andrew Ng,
 > "Artificial Intelligence is the new electricity."
 
-This repository contains my notes and some references of other resources I utilised. I learnt a lot of new concepts in the course and I enjoyed making these notes. The CNN course is my favourite. Apart from that, I feel if anyone is not doing the whole specialization, he/she should atleast do the 
+This repository contains my notes(Currently, course 2 and 4) and some references of other resources I utilised. I learnt a lot of new concepts in the course and I enjoyed making these notes. The CNN course is my favourite. Apart from that, I feel if anyone is not doing the whole specialization, he/she should atleast do the 
 first 2 courses to get a deeper understanding of the NN and optimization algorithms. 
 
 You can navigate through the repository or jump directly by clicking on [this](https://github.com/sankalp1999/Deeplearning.ai-Specialization/blob/master/README.md#personal-notes-and-resources-referred) 
@@ -30,7 +30,7 @@ we know about the "nitty-gritty" details.
 
 If you want to get a good grasp on the foundations of deep learning, this is probably the best way to go.
 
-**I have made a significant amount of effort to make digital notes for the courses 2, (3, 4 and 5 in progress). I hope you will enjoy the notes.**
+**I have made a significant amount of effort to make digital notes for the courses 2, (3, 5 in progress). I hope you will enjoy the notes.**
 
 ## Notes
 
